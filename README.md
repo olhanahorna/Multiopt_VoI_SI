@@ -1,6 +1,6 @@
 # Multiopt_VoI_SI
 
-This repository contains the codebase for "Multi-objective value of information assessment using stochastic programming: addressing uncertainty in site index determination" manuscript
+This repository contains the codebase for "Multi-objective value of information assessment using stochastic programming: addressing uncertainty in site index determination" paper published in Forestry: An International Journal of Forest Research. https://doi.org/10.1093/forestry/cpaf021
 
 The following files are contained in this directory: 
 
